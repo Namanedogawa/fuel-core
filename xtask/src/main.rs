@@ -8,7 +8,7 @@ use commands::{
         BuildCommand,
     },
     dump::{
-        dump_schema,
+        dump_schema,бл
         DumpCommand,
     },
 };
